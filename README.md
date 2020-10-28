@@ -71,8 +71,8 @@ Travis McKinstry
 [git-corey]: https://github.com/coreycartercodes
 [linkedin-corey]: https://www.linkedin.com/in/carter-codes/
 
-[git-cam]: https://github.com/Callbritton
-[linkedin-cam]: https://github.com/Callbritton
+[git-cam]: https://github.com/ckccameron
+[linkedin-cam]: https://www.linkedin.com/in/cameronchery/
 
 [git-arique]: https://github.com/Arique1104
 [linkedin-arique]: https://www.linkedin.com/in/arique/
