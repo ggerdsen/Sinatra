@@ -1,6 +1,6 @@
 # require './config/environment'
 
-# require 'sinatra'
+require 'sinatra'
 class ApplicationController < Sinatra::Base
 
   before do
@@ -14,7 +14,7 @@ class ApplicationController < Sinatra::Base
   get "/api/v1/pom" do
     response = Faraday.new("https://opentdb.com/api.php?amount=1")
     results = JSON.parse(response.body, symbolize_names: true)
-    binding.pry
+    results.to_json
   end
 
   # get "/api" do
