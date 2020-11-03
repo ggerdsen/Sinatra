@@ -28,6 +28,6 @@ RSpec.describe "ApplicationController" do
     expect(body[:results].first[:correct_answer]).to be_a(String)
     expect(body[:results].first).to have_key(:incorrect_answers)
     expect(body[:results].first[:incorrect_answers]).to be_an(Array)
-    
+
   end
 end
