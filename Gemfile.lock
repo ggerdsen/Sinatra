@@ -23,8 +23,6 @@ GEM
       ruby2_keywords
     fast_jsonapi (1.5)
       activesupport (>= 4.2)
-    figaro (1.2.0)
-      thor (>= 0.14.0, < 2)
     i18n (1.8.5)
       concurrent-ruby (~> 1.0)
     json (2.3.1)
@@ -69,7 +67,6 @@ GEM
       tilt (~> 2.0)
     test-unit (3.2.7)
       power_assert
-    thor (1.0.1)
     thread_safe (0.3.6)
     tilt (2.0.10)
     tzinfo (1.2.7)
@@ -84,7 +81,6 @@ DEPENDENCIES
   capybara
   faraday
   fast_jsonapi
-  figaro
   json
   pry
   rack-test

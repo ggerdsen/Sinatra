@@ -1,7 +1,6 @@
 gem "sinatra"
 gem "fast_jsonapi"
 gem "faraday"
-gem "figaro"
 gem "json"
 
 group :test do
