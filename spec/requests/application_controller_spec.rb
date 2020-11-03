@@ -5,7 +5,7 @@ def app
 end
 
 RSpec.describe "ApplicationController" do
-  it "responds with a welcome message" do
+  it "responds with a trivia question" do
     get "/api/v1/single_trivia_question"
 
     body = JSON.parse(last_response.body, symbolize_names: true)
