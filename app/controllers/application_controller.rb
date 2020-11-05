@@ -1,5 +1,6 @@
 require 'pry'
 require 'sinatra'
+require 'faraday'
 class ApplicationController < Sinatra::Base
 
   get "/api/v1/single_trivia_question" do
@@ -7,5 +8,5 @@ class ApplicationController < Sinatra::Base
     body = JSON.parse(conn.body, symbolize_names: true)
     body.to_json
   end
-  
+
 end
