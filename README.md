@@ -15,7 +15,6 @@ To use this repo...
 3. Fork and Clone this repo
 4. Install gem packages: `bundle install`
 5. Setup the database: `rails db:create`
-6. After that, you can run the following command in your terminal to see a json object response: `ruby app/controllers/application_controller.rb`
 
 ## Contributors
 <br>
