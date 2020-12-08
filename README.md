@@ -1,9 +1,9 @@
 # Sinatra
 
-##Associated Repositories
+## Associated Repositories
 
-Back End Repo: https://github.com/ggerdsen/Back-End
-Front End Repo: https://github.com/ggerdsen/Front-End
+Back End Repo: https://github.com/ggerdsen/Back-End   
+Front End Repo: https://github.com/ggerdsen/Front-End 
 
 ## Purpose
 
