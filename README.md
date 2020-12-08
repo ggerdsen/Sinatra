@@ -1,5 +1,10 @@
 # Sinatra
 
+##Associated Repositories
+
+Back End Repo: https://github.com/ggerdsen/Back-End
+Front End Repo: https://github.com/ggerdsen/Front-End
+
 ## Purpose
 
 - This repo is meant to act as the micro-service to the application as a whole. The main application, [found here](https://github.com/Classroom-Wars), is an application meant to address the issue of teachers not being able to properly use technology to engage their students (both in person and remotely).
