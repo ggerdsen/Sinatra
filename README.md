@@ -1,4 +1,4 @@
-# Sinatra
+# Sinatra Microservice for Classroom Wars
 
 ## Associated Repositories
 
